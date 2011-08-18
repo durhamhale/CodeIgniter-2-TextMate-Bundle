@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class ${1:class_name} extends CI_Controller {
+
+	function __construct()
+	{
+		parent::__construct();
+	}
+		
+	function index()
+	{
+		${0}
+	}
+}</string>
+	<key>name</key>
+	<string>Create Controller</string>
+	<key>tabTrigger</key>
+	<string>cicontroller</string>
+	<key>uuid</key>
+	<string>A225EF98-8501-4156-90BE-5A423B02FC76</string>
+</dict>
+</plist>

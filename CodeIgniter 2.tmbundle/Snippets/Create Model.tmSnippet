@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class ${1:class_name} extends CI_Model {
+
+	function __construct()
+	{
+		parent::__construct();
+	}
+		
+	function ${2:function_name}()
+	{
+		${0}
+	}
+}</string>
+	<key>name</key>
+	<string>Create Model</string>
+	<key>tabTrigger</key>
+	<string>cimodel</string>
+	<key>uuid</key>
+	<string>B66FCB09-A07C-40FD-8CBD-6686FD73966C</string>
+</dict>
+</plist>
