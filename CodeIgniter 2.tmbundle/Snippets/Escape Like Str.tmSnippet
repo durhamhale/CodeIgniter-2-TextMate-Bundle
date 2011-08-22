@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;escape_like_str(\$${1:var});${0}</string>
+	<key>name</key>
+	<string>Escape Like Str</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbescapelikestr</string>
+	<key>uuid</key>
+	<string>AEF5BB78-411D-488A-8992-0018ACD28B84</string>
+</dict>
+</plist>

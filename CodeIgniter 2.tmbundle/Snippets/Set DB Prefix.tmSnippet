@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;set_dbprefix('${1:table_name}');${0}</string>
+	<key>name</key>
+	<string>Set DB Prefix</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbsetprefix</string>
+	<key>uuid</key>
+	<string>1D64DDAA-89C4-490D-B6FE-5417FCBE082D</string>
+</dict>
+</plist>
