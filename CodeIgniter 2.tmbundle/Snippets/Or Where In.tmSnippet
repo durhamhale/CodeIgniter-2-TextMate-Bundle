@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;or_where_in('${1:field}', array('${2:value}', '${3:value}', '${4:value}'));${0}</string>
+	<key>name</key>
+	<string>Or Where In</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidborwherein</string>
+	<key>uuid</key>
+	<string>94A9F587-5B72-4748-9EFE-364B48797851</string>
+</dict>
+</plist>

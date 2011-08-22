@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;select_min('${1:field}');${0}</string>
+	<key>name</key>
+	<string>Select Min</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbselectmin</string>
+	<key>uuid</key>
+	<string>013987EF-DC59-48A6-B742-2F757743C874</string>
+</dict>
+</plist>

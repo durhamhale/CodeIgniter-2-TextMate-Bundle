@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;flush_cache();${0}</string>
+	<key>name</key>
+	<string>Flush Cache</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbflushcache</string>
+	<key>uuid</key>
+	<string>AF5C2F8D-24E7-4818-8FC2-6ED32291EB21</string>
+</dict>
+</plist>

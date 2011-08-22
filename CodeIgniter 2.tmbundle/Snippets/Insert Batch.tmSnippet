@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;insert_batch('${1:table_name}', array(
+	array(
+		'${2:field}' =&gt; '${3:value}',
+		'${4:field}' =&gt; '${5:value}',
+		'${6:field}' =&gt; '${7:value}'
+	),
+	array(
+		'${8:field}' =&gt; '${9:value}',
+		'${10:field}' =&gt; '${11:value}',
+		'${12:field}' =&gt; '${13:value}'
+	)
+));${0}</string>
+	<key>name</key>
+	<string>Insert Batch</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbinsertbatch</string>
+	<key>uuid</key>
+	<string>E33A226A-B7AE-47B8-9925-C870F8430DAB</string>
+</dict>
+</plist>

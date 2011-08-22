@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;truncate('${1:table_name}');${0}</string>
+	<key>name</key>
+	<string>Truncate</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbtruncate</string>
+	<key>uuid</key>
+	<string>3D26E684-523D-4CDA-A197-DB1B040E3247</string>
+</dict>
+</plist>

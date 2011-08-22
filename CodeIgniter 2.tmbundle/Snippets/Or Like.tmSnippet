@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;or_like('${1:field}', '${2:value}', '${3:wildcard_position}');${0}</string>
+	<key>name</key>
+	<string>Or Like</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidborlike</string>
+	<key>uuid</key>
+	<string>E9456414-19C8-40D1-A7D9-33CC6F0130BC</string>
+</dict>
+</plist>

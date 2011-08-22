@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;having('${1:field}', '${2:value}');${0}</string>
+	<key>name</key>
+	<string>Having</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbhaving</string>
+	<key>uuid</key>
+	<string>BA63E035-132A-4CE0-B762-C92867C54300</string>
+</dict>
+</plist>

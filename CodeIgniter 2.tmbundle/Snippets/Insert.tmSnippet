@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;insert('${1:table_name}', array(
+	'${2:field}' =&gt; '${3:value}',
+	'${4:field}' =&gt; '${5:value}',
+	'${6:field}' =&gt; '${7:value}'
+));${0}</string>
+	<key>name</key>
+	<string>Insert</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbinsert</string>
+	<key>uuid</key>
+	<string>8C9F3819-9119-4005-BC03-2423315F5850</string>
+</dict>
+</plist>

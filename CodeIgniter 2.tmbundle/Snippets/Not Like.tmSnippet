@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;not_like('${1:field}', '${2:value}', '${3:wildcard_position}');${0}</string>
+	<key>name</key>
+	<string>Not Like</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbnotlike</string>
+	<key>uuid</key>
+	<string>1202E0A7-D12F-49EE-A6FD-3F9B7C481694</string>
+</dict>
+</plist>

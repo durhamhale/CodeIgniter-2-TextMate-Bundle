@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;join('${1:table_name}', '${2:table.field} = ${3:table.field}', '${4:join_type}');${0}</string>
+	<key>name</key>
+	<string>Join</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbjoin</string>
+	<key>uuid</key>
+	<string>66619D4C-C577-49B1-8F01-51A4245964D9</string>
+</dict>
+</plist>

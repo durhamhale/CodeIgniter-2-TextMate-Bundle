@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;select_max('${1:field}');${0}</string>
+	<key>name</key>
+	<string>Select Max</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbselectmax</string>
+	<key>uuid</key>
+	<string>1677E8DB-3D4D-4AAA-947B-CC2D772750B6</string>
+</dict>
+</plist>
