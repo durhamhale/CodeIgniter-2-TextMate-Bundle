@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$this-&gt;db-&gt;count_all('${1:table_name}');${0}</string>
+	<string>\$this-&gt;db-&gt;platform();${0}</string>
 	<key>name</key>
-	<string>Count All</string>
+	<string>Platform</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>cidbcountall</string>
+	<string>cidbplatform</string>
 	<key>uuid</key>
-	<string>8CF1BA57-1D91-46A5-B861-8D94826FC2BC</string>
+	<string>CEC49C5E-D182-49E8-A23C-2FE1C414F973</string>
 </dict>
 </plist>

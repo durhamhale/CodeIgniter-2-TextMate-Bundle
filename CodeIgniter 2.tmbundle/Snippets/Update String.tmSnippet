@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$query = $this-&gt;db-&gt;update_string('${1:table_name}', array(
+	'${2:field}' =&gt; '${3:value}',
+	'${4:field}' =&gt; '${5:value}',
+	'${6:field}' =&gt; '${7:value}'
+), ${8:where_str}');${0}</string>
+	<key>name</key>
+	<string>Update String</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbupdatestr</string>
+	<key>uuid</key>
+	<string>AEF491FD-0240-46A4-B858-D18523D67625</string>
+</dict>
+</plist>

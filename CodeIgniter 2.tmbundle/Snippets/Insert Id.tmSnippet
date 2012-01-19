@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$this-&gt;db-&gt;count_all('${1:table_name}');${0}</string>
+	<string>\$this-&gt;db-&gt;insert_id();${0}</string>
 	<key>name</key>
-	<string>Count All</string>
+	<string>Insert Id</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>cidbcountall</string>
+	<string>cidbinsertid</string>
 	<key>uuid</key>
-	<string>8CF1BA57-1D91-46A5-B861-8D94826FC2BC</string>
+	<string>B29D474B-A2A8-43A2-B7C3-7B5FFA8F08FC</string>
 </dict>
 </plist>
