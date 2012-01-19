@@ -19,6 +19,7 @@
 				<array>
 					<string>98526CBC-0E4A-4372-9761-B9F7474F65CF</string>
 					<string>------------------------------------</string>
+					<string>BFC3B6DA-AB92-4523-B2DE-FBAAF656E0AF</string>
 					<string>FDE7F9D9-F0A0-4726-BF37-780B31009A36</string>
 					<string>A285BF4B-E312-4521-8112-4B0A89C241C9</string>
 				</array>
@@ -40,6 +41,17 @@
 				</array>
 				<key>name</key>
 				<string>Query Helper Functions</string>
+			</dict>
+			<key>BFC3B6DA-AB92-4523-B2DE-FBAAF656E0AF</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>444F4B54-B7AC-48FD-9D78-23218183C6E0</string>
+					<string>A3FB4DB8-116A-4BD3-82E6-557AE1D02AB1</string>
+					<string>FC4741EE-A5B0-4FF9-B394-C551540C562B</string>
+				</array>
+				<key>name</key>
+				<string>Connection Functions</string>
 			</dict>
 			<key>FDE7F9D9-F0A0-4726-BF37-780B31009A36</key>
 			<dict>
@@ -152,6 +164,9 @@
 		<string>5950CC35-DFE2-44BA-831C-442AD193D623</string>
 		<string>0F8C8AEF-8D2B-43DD-B908-25A618FF1077</string>
 		<string>29ABC2D9-5E6E-4710-9650-6F5EE40C7BDC</string>
+		<string>444F4B54-B7AC-48FD-9D78-23218183C6E0</string>
+		<string>A3FB4DB8-116A-4BD3-82E6-557AE1D02AB1</string>
+		<string>FC4741EE-A5B0-4FF9-B394-C551540C562B</string>
 	</array>
 	<key>uuid</key>
 	<string>04FD7E7D-1F18-4790-8C9A-BE6E59261026</string>
