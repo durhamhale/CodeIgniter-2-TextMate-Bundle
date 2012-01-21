@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$query = $this-&gt;db-&gt;update_string('${1:table_name}', array(
+	<string>\$query = \$this-&gt;db-&gt;update_string('${1:table_name}', array(
 	'${2:field}' =&gt; '${3:value}',
 	'${4:field}' =&gt; '${5:value}',
 	'${6:field}' =&gt; '${7:value}'

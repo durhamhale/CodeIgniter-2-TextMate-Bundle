@@ -24,9 +24,23 @@
 					<string>E936974E-5CD8-46EA-A074-5945C42EF8BC</string>
 					<string>A285BF4B-E312-4521-8112-4B0A89C241C9</string>
 					<string>9A302F90-1242-4B47-92F4-0DA6D7CAE00F</string>
+					<string>8D5B197C-C2B4-49DD-84DE-54A698AF3446</string>
 				</array>
 				<key>name</key>
 				<string>Database Class</string>
+			</dict>
+			<key>8D5B197C-C2B4-49DD-84DE-54A698AF3446</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>C13D7C12-7F9D-4B5B-80FE-49B70D8EFC5E</string>
+					<string>3CAC6FE7-1209-4EF1-8A2E-5B8EE1AB089C</string>
+					<string>64A2DEE4-B3E2-4DD0-A6AC-4EEF89DAC7E0</string>
+					<string>BE560417-FB6C-4778-8E26-7EFCF4393BE0</string>
+					<string>8CFA28DB-E1CF-4867-AA81-F1E6780149E9</string>
+				</array>
+				<key>name</key>
+				<string>Meta Data</string>
 			</dict>
 			<key>9A302F90-1242-4B47-92F4-0DA6D7CAE00F</key>
 			<dict>
@@ -201,6 +215,11 @@
 		<string>CEC3FEB1-5CEF-4DAD-AC1E-1846CF76E163</string>
 		<string>93BB937D-415F-418A-92B1-673E4921ECE9</string>
 		<string>79AC05EA-7815-4614-A7A3-09B91900B301</string>
+		<string>BE560417-FB6C-4778-8E26-7EFCF4393BE0</string>
+		<string>8CFA28DB-E1CF-4867-AA81-F1E6780149E9</string>
+		<string>64A2DEE4-B3E2-4DD0-A6AC-4EEF89DAC7E0</string>
+		<string>3CAC6FE7-1209-4EF1-8A2E-5B8EE1AB089C</string>
+		<string>C13D7C12-7F9D-4B5B-80FE-49B70D8EFC5E</string>
 	</array>
 	<key>uuid</key>
 	<string>04FD7E7D-1F18-4790-8C9A-BE6E59261026</string>

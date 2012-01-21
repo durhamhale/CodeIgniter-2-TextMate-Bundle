@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$result = \$this-&gt;db-&gt;query('${1:sql}');${0}</string>
+	<string>\$this-&gt;db-&gt;table_exists('${1:table_name}');${0}</string>
 	<key>name</key>
-	<string>Query</string>
+	<string>Table Exists</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>cidbquery</string>
+	<string>cidbtableexists</string>
 	<key>uuid</key>
-	<string>C35EFF3C-4E66-4EA3-94F0-D1028F837D20</string>
+	<string>8CFA28DB-E1CF-4867-AA81-F1E6780149E9</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$db = $this-&gt;load-&gt;database('${1:group_name}', ${2:TRUE});${0}</string>
+	<string>\$db = \$this-&gt;load-&gt;database('${1:group_name}', ${2:TRUE});${0}</string>
 	<key>name</key>
 	<string>DB Connect</string>
 	<key>scope</key>
