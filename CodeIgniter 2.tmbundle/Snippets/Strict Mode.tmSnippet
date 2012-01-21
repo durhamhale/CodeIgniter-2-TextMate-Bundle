@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;trans_strict(${1:FALSE});${0}</string>
+	<key>name</key>
+	<string>Strict Mode</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbtransstrict</string>
+	<key>uuid</key>
+	<string>AA617948-D293-481B-B782-A9AA2F7CFC2D</string>
+</dict>
+</plist>

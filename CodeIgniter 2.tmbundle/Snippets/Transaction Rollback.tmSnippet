@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;trans_rollback();${0}</string>
+	<key>name</key>
+	<string>Transaction Rollback</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbtransrollback</string>
+	<key>uuid</key>
+	<string>93BB937D-415F-418A-92B1-673E4921ECE9</string>
+</dict>
+</plist>

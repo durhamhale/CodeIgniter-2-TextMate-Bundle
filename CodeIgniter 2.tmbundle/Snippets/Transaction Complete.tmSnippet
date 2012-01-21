@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;trans_complete();${0}</string>
+	<key>name</key>
+	<string>Transaction Complete</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbtranscomplete</string>
+	<key>uuid</key>
+	<string>8DF635BE-34D9-4E21-A8BC-A872BC4865FA</string>
+</dict>
+</plist>

@@ -23,9 +23,26 @@
 					<string>FDE7F9D9-F0A0-4726-BF37-780B31009A36</string>
 					<string>E936974E-5CD8-46EA-A074-5945C42EF8BC</string>
 					<string>A285BF4B-E312-4521-8112-4B0A89C241C9</string>
+					<string>9A302F90-1242-4B47-92F4-0DA6D7CAE00F</string>
 				</array>
 				<key>name</key>
 				<string>Database Class</string>
+			</dict>
+			<key>9A302F90-1242-4B47-92F4-0DA6D7CAE00F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>AA617948-D293-481B-B782-A9AA2F7CFC2D</string>
+					<string>CEC3FEB1-5CEF-4DAD-AC1E-1846CF76E163</string>
+					<string>79AC05EA-7815-4614-A7A3-09B91900B301</string>
+					<string>8DF635BE-34D9-4E21-A8BC-A872BC4865FA</string>
+					<string>9C9478CB-D8D7-4F3E-80FF-8B4F7987966A</string>
+					<string>93BB937D-415F-418A-92B1-673E4921ECE9</string>
+					<string>80C98DF8-8F1E-455E-9FE4-6E4B56037638</string>
+					<string>54FA3DBD-0E8F-46CE-82AE-FB82E1186E49</string>
+				</array>
+				<key>name</key>
+				<string>Transactions</string>
 			</dict>
 			<key>A285BF4B-E312-4521-8112-4B0A89C241C9</key>
 			<dict>
@@ -176,6 +193,14 @@
 		<string>A3FB4DB8-116A-4BD3-82E6-557AE1D02AB1</string>
 		<string>FC4741EE-A5B0-4FF9-B394-C551540C562B</string>
 		<string>608D2462-7298-4A5A-BC67-62ED53545941</string>
+		<string>80C98DF8-8F1E-455E-9FE4-6E4B56037638</string>
+		<string>8DF635BE-34D9-4E21-A8BC-A872BC4865FA</string>
+		<string>AA617948-D293-481B-B782-A9AA2F7CFC2D</string>
+		<string>54FA3DBD-0E8F-46CE-82AE-FB82E1186E49</string>
+		<string>9C9478CB-D8D7-4F3E-80FF-8B4F7987966A</string>
+		<string>CEC3FEB1-5CEF-4DAD-AC1E-1846CF76E163</string>
+		<string>93BB937D-415F-418A-92B1-673E4921ECE9</string>
+		<string>79AC05EA-7815-4614-A7A3-09B91900B301</string>
 	</array>
 	<key>uuid</key>
 	<string>04FD7E7D-1F18-4790-8C9A-BE6E59261026</string>
