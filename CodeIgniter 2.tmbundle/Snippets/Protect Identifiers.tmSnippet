@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$this-&gt;db-&gt;protect_identifiers('${1:table_name}');${0}</string>
+	<string>\$this-&gt;db-&gt;protect_identifiers('${1:table_name}', ${2:TRUE});${0}</string>
 	<key>name</key>
 	<string>Protect Identifiers</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>cidbprotectidentifiers</string>
+	<string>cidbprotect</string>
 	<key>uuid</key>
-	<string>52BD358A-EE09-4D29-A28A-3BD4B51253BB</string>
+	<string>608D2462-7298-4A5A-BC67-62ED53545941</string>
 </dict>
 </plist>
